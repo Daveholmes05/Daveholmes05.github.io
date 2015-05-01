@@ -102,6 +102,9 @@ footer {
 	margin-top: 25px;
 }
 
+footer img {
+	width: 80%;
+}
 
 /* Responsive Styling */
 
@@ -151,6 +154,4 @@ footer {
 	}
 }
 
-footer img {
-	width: 80%;
-}
+

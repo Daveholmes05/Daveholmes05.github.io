@@ -23,6 +23,12 @@ footer {
 	
 }
 
+#back-to-top {
+  	position: fixed;
+  	bottom: 20px;
+  	right: 20px;
+}
+
 .jumbotron {
 	text-align: center;
 	background-image: url('../images/citylight.jpg');

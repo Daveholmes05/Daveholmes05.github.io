@@ -29,6 +29,10 @@ footer {
   	right: 20px;
 }
 
+#back-to-top a {
+	color: #333;
+}
+
 .jumbotron {
 	text-align: center;
 	background-image: url('../images/citylight.jpg');

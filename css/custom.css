@@ -74,6 +74,14 @@ footer {
 	-moz--border-radius: 24px;
 }
 
+.modal-dialog {
+	position: absolute;
+	width: auto;
+	left: 50%;
+	margin-left: -300px;
+	top: 50%;
+	margin-top: 175px;
+}
 
 
 .btn-lg {

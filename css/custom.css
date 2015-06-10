@@ -37,6 +37,7 @@ footer {
 #codebackground {
   background-color: rgb(253, 249, 249);
   border-radius: 10px;
+  padding: 5px;
 }
 
 .jumbotron {
